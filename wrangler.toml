@@ -2,3 +2,7 @@ name = "fly"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
 keep_vars = true
+
+[[kv_namespaces]]
+binding = "cf"
+id = "5867c63af67c4e58aa9fe9f5fc32fa7a"
